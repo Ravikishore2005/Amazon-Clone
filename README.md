@@ -13,4 +13,4 @@ Amazon Clone website built using HTML and CSS.
 - HTML
 - CSS
 ## 👨‍💻 Author
-- Your Name Ravi Kishore S
+- Ravi Kishore S
