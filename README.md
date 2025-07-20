@@ -1,6 +1,6 @@
 # Amazon Clone 🛒
 
-A Amazon Clone website built using HTML and CSS.
+Amazon Clone website built using HTML and CSS.
 
 ## 🚀 Features
 - Home page with navbar and banner
